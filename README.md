@@ -79,25 +79,6 @@ No advanced frameworks required.
 
 ---
 
-## 📁 Folder Structure
-
-PYTHON-MINI-PROJECTS/
-│
-├── Caterpillar_Game/
-│ └── main.py
-│
-├── Chess_Game/
-│ └── main.py
-│
-├── Dice_Rolling_Simulator/
-│ └── main.py
-│
-├── README.md
-└── LICENSE
-
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -110,17 +91,18 @@ PYTHON-MINI-PROJECTS/
 
 ## ▶️ How to Run the Projects
 
-### 1️⃣ Clone the Repository
-```bash
+ Clone the Repository
+
+ 
 git clone https://github.com/Vagvedi/PYTHON-MINI-PROJECTS.git
 
 Navigate into the Repository
 cd PYTHON-MINI-PROJECTS
 
-3️ Open Any Project Folder
+Open Any Project Folder
 cd Dice_Rolling_Simulator
 
-4️ Run the Python File
+Run the Python File
 python main.py
 
 🎓 Learning Outcomes
