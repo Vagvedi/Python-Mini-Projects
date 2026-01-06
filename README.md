@@ -194,8 +194,12 @@ Python-Mini-Projects-main/
 ├── Password_Generator/
 │   ├── password.py
 │   └── README.md
+├── Rock_Paper_Scissors_PRO/
+│   ├── rock_paper_scissors.py
+│   └── README.md
 ├── LICENSE
 └── README.md
+
 ```
 
 ---
