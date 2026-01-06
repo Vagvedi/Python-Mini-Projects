@@ -101,6 +101,24 @@ A secure password generation tool with customizable options.
 
 ---
 
+### 6. **Rock Paper Scissors PRO** 🎮
+A classic command-line game where the user competes against the computer using strategy and luck.
+
+- **File:** [Rock_Paper_Scissors_PRO/rock_paper_scissors.py](Rock_Paper_Scissors/rock.py)
+- **Description:** Play the classic Rock–Paper–Scissors game against the computer with score tracking and multiple rounds.
+- **Features:**
+  - User vs Computer gameplay
+  - Randomized computer choices
+  - Multiple rounds of play
+  - Live scoreboard display
+  - Clear win/lose/draw logic
+  - Beginner-friendly and clean code structure
+- **Requirements:** None – uses only Python standard library (`random`)
+- **How to Run:** `python Rock_Paper_Scissors_PRO/rock.py`
+- **Usage:** Choose Rock, Paper, or Scissors each round and decide whether to continue playing
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -134,8 +152,9 @@ A secure password generation tool with customizable options.
 | Caterpillar Game | Built-in `turtle` | No installation needed |
 | Chess Game | `pygame` | `pip install pygame` |
 | Dice Simulator | Built-in `random` | No installation needed |
-| Number Guessing | `colorama` | `pip install colorama` |
+| Number Guessing Game | `colorama` | `pip install colorama` |
 | Password Generator | Built-in `random`, `string` | No installation needed |
+| Rock Paper Scissors PRO | Built-in `random` | No installation needed |
 
 ---
 
