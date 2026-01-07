@@ -119,6 +119,23 @@ A classic command-line game where the user competes against the computer using s
 
 ---
 
+### 4. **File Organiser Automation** 📁
+A simple command-line automation tool to organize files in a directory based on their file types.
+
+- **File:** [File_Organiser/file_organizer.py](File_Organiser/file_organizer.py)
+- **Description:** Automatically sorts files in a selected folder into categorized subfolders such as Images, Documents, Videos, Music, Archives, and Others.
+- **Features:**
+  - Automatic file organization by extension
+  - Creates folders if they do not exist
+  - Supports common file categories
+  - Works on any directory (Downloads, Desktop, etc.)
+  - Simple and user-friendly CLI
+- **Requirements:** None – uses only Python standard library (`os`, `shutil`)
+- **How to Run:** `python File_Organiser/file_organizer.py`
+- **Usage:** Enter the path of the folder you want to organize and let the script sort the files automatically
+
+ ---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -155,6 +172,8 @@ A classic command-line game where the user competes against the computer using s
 | Number Guessing Game | `colorama` | `pip install colorama` |
 | Password Generator | Built-in `random`, `string` | No installation needed |
 | Rock Paper Scissors PRO | Built-in `random` | No installation needed |
+| File Organiser Automation | Built-in `os`, `shutil` | No installation needed |
+
 
 ---
 
@@ -197,8 +216,12 @@ Python-Mini-Projects-main/
 ├── Rock_Paper_Scissors_PRO/
 │   ├── rock_paper_scissors.py
 │   └── README.md
+├── File_Organiser/
+│   ├── file_organizer.py
+│   └── README.md
 ├── LICENSE
 └── README.md
+
 
 ```
 
