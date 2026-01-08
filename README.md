@@ -119,7 +119,7 @@ A classic command-line game where the user competes against the computer using s
 
 ---
 
-### 4. **File Organiser Automation** 📁
+### 7. **File Organiser Automation** 📁
 A simple command-line automation tool to organize files in a directory based on their file types.
 
 - **File:** [File_Organiser/file_organizer.py](File_Organiser/file_organizer.py)
@@ -135,6 +135,21 @@ A simple command-line automation tool to organize files in a directory based on 
 - **Usage:** Enter the path of the folder you want to organize and let the script sort the files automatically
 
  ---
+ ### 8. **Calculator GUI (Tkinter)** 🧮
+A simple graphical calculator application built using Python’s Tkinter library.
+
+- **File:** [Calculator_GUI/calculator.py](Calculator_GUI/calculator.py)
+- **Description:** A GUI-based calculator that performs basic arithmetic operations using clickable buttons.
+- **Features:**
+  - Graphical user interface using Tkinter
+  - Button-based input system
+  - Supports addition, subtraction, multiplication, and division
+  - Error handling for invalid expressions
+  - Clean and responsive layout
+- **Requirements:** None – uses built-in Python library (`tkinter`)
+- **How to Run:** `python Calculator_GUI/calculator.py`
+- **Usage:** Click the calculator buttons to enter numbers and operations, then press `=` to view the result
+---
 
 ## 🚀 Getting Started
 
