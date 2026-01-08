@@ -173,6 +173,7 @@ A simple command-line automation tool to organize files in a directory based on 
 | Password Generator | Built-in `random`, `string` | No installation needed |
 | Rock Paper Scissors PRO | Built-in `random` | No installation needed |
 | File Organiser Automation | Built-in `os`, `shutil` | No installation needed |
+| Calculator GUI | Built-in `tkinter` | No installation needed |
 
 
 ---
@@ -204,6 +205,9 @@ Python-Mini-Projects-main/
 │   ├── requirements.txt
 │   ├── README.md
 │   └── images/
+├── Calculator_GUI/
+│   ├── calculator.py
+│   └── README.md
 ├── Dice_Rolling_Stimulator/
 │   ├── dice_stimulator.py
 │   └── README.md
@@ -256,6 +260,11 @@ Select difficulty and guess the number based on hints.
 **Password Generator:**
 ```bash
 python Password_Generator/password.py
+```
+
+**Calculator GUI:**
+```bash
+python Calculator_GUI/calculator.py
 ```
 Answer prompts to customize your password, then get a secure random password.
 
