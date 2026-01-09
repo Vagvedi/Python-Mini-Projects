@@ -151,6 +151,21 @@ A simple graphical calculator application built using Python’s Tkinter library
 - **Usage:** Click the calculator buttons to enter numbers and operations, then press `=` to view the result
 ---
 
+### 9. **Digital Clock GUI** ⏰
+A real-time digital clock application built using Python Tkinter.
+
+- **File:** [Digital_Clock_GUI/digital_clock.py](Digital_Clock_GUI/digital_clock.py)
+- **Description:** Displays the current system time and updates every second.
+- **Features:**
+  - Real-time clock display
+  - Automatic refresh every second
+  - Minimal and clean UI
+- **Requirements:** None – uses built-in Python libraries (`tkinter`, `time`)
+- **How to Run:** `python Digital_Clock_GUI/digital_clock.py`
+- **Usage:** Launch the app to view the live digital clock
+ 
+ ---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -189,6 +204,7 @@ A simple graphical calculator application built using Python’s Tkinter library
 | Rock Paper Scissors PRO | Built-in `random` | No installation needed |
 | File Organiser Automation | Built-in `os`, `shutil` | No installation needed |
 | Calculator GUI | Built-in `tkinter` | No installation needed |
+| Digital Clock GUI | Built-in `tkinter`, `time` | No installation needed |
 
 
 ---
@@ -223,6 +239,9 @@ Python-Mini-Projects-main/
 ├── Calculator_GUI/
 │   ├── calculator.py
 │   └── README.md
+├── Digital_Clock_GUI/
+│   ├── digital_clock.py
+│   └── README.md
 ├── Dice_Rolling_Stimulator/
 │   ├── dice_stimulator.py
 │   └── README.md
@@ -232,8 +251,8 @@ Python-Mini-Projects-main/
 ├── Password_Generator/
 │   ├── password.py
 │   └── README.md
-├── Rock_Paper_Scissors_PRO/
-│   ├── rock_paper_scissors.py
+├── Rock_Paper_Scissors/
+│   ├── rock.py
 │   └── README.md
 ├── File_Organiser/
 │   ├── file_organizer.py
