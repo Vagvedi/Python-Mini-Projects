@@ -166,6 +166,21 @@ A real-time digital clock application built using Python Tkinter.
  
  ---
 
+ ### 10. **To-Do List GUI (Tkinter)** 📝
+A simple graphical task manager built using Python Tkinter.
+
+- **File:** [Todo_List_GUI/todo_app.py](Todo_List_GUI/todo_app.py)
+- **Description:** Manage daily tasks with options to add, mark complete, and delete tasks.
+- **Features:**
+  - Add and remove tasks
+  - Mark tasks as completed
+  - Clean graphical interface
+- **Requirements:** None – uses built-in Python library (`tkinter`)
+- **How to Run:** `python Todo_List_GUI/todo_app.py`
+- **Usage:** Type a task, add it to the list, and manage tasks using buttons
+
+  ---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
