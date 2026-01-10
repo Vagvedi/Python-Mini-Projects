@@ -207,20 +207,20 @@ A simple graphical task manager built using Python Tkinter.
 
 ---
 
-## 📦 Individual Project Dependencies
+## 📦 Project Dependencies
 
 | Project | Dependencies | Installation |
-|---------|--------------|--------------|
+|--------|--------------|--------------|
 | Caterpillar Game | Built-in `turtle` | No installation needed |
 | Chess Game | `pygame` | `pip install pygame` |
 | Dice Simulator | Built-in `random` | No installation needed |
 | Number Guessing Game | `colorama` | `pip install colorama` |
 | Password Generator | Built-in `random`, `string` | No installation needed |
-| Rock Paper Scissors PRO | Built-in `random` | No installation needed |
+| Rock Paper Scissors | Built-in `random` | No installation needed |
 | File Organiser Automation | Built-in `os`, `shutil` | No installation needed |
 | Calculator GUI | Built-in `tkinter` | No installation needed |
 | Digital Clock GUI | Built-in `tkinter`, `time` | No installation needed |
-
+| To-Do List GUI | Built-in `tkinter` | No installation needed |
 
 ---
 
@@ -243,38 +243,40 @@ These projects teach:
 ```
 Python-Mini-Projects-main/
 ├── Caterpillar_Game/
-│   ├── Caterpillar.py
-│   └── README.md
+│ ├── Caterpillar.py
+│ └── README.md
 ├── Chess_Game/
-│   ├── ChessEngine.py
-│   ├── ChessGame.py
-│   ├── requirements.txt
-│   ├── README.md
-│   └── images/
+│ ├── ChessEngine.py
+│ ├── ChessGame.py
+│ ├── requirements.txt
+│ ├── README.md
+│ └── images/
 ├── Calculator_GUI/
-│   ├── calculator.py
-│   └── README.md
+│ ├── calculator.py
+│ └── README.md
 ├── Digital_Clock_GUI/
-│   ├── digital_clock.py
-│   └── README.md
+│ ├── digital_clock.py
+│ └── README.md
 ├── Dice_Rolling_Stimulator/
-│   ├── dice_stimulator.py
-│   └── README.md
+│ ├── dice_stimulator.py
+│ └── README.md
 ├── Number_Guessing_Game/
-│   ├── guess.py
-│   └── README.md
+│ ├── guess.py
+│ └── README.md
 ├── Password_Generator/
-│   ├── password.py
-│   └── README.md
+│ ├── password.py
+│ └── README.md
 ├── Rock_Paper_Scissors/
-│   ├── rock.py
-│   └── README.md
+│ ├── rock.py
+│ └── README.md
 ├── File_Organiser/
-│   ├── file_organizer.py
-│   └── README.md
+│ ├── file_organizer.py
+│ └── README.md
+├── Todo_List_GUI/
+│ ├── todo_app.py
+│ └── README.md
 ├── LICENSE
 └── README.md
-
 
 ```
 
