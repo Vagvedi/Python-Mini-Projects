@@ -181,6 +181,21 @@ A simple graphical task manager built using Python Tkinter.
 
   ---
 
+  ### 11. **Stopwatch GUI (Tkinter)** ⏱️
+A graphical stopwatch application built using Python Tkinter.
+
+- **File:** [Stopwatch_GUI/stopwatch.py](Stopwatch_GUI/stopwatch.py)
+- **Description:** Measure elapsed time with start, stop, and reset functionality.
+- **Features:**
+  - Real-time stopwatch
+  - Millisecond precision
+  - Start/Stop/Reset controls
+- **Requirements:** None – uses built-in Python libraries (`tkinter`, `time`)
+- **How to Run:** `python Stopwatch_GUI/stopwatch.py`
+- **Usage:** Click Start to begin timing, Stop to pause, and Reset to clear the timer
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -221,6 +236,7 @@ A simple graphical task manager built using Python Tkinter.
 | Calculator GUI | Built-in `tkinter` | No installation needed |
 | Digital Clock GUI | Built-in `tkinter`, `time` | No installation needed |
 | To-Do List GUI | Built-in `tkinter` | No installation needed |
+| Stopwatch GUI | Built-in `tkinter` | No installation needed |
 
 ---
 
