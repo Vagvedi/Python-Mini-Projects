@@ -273,6 +273,9 @@ Python-Mini-Projects-main/
 ├── Digital_Clock_GUI/
 │ ├── digital_clock.py
 │ └── README.md
+├── Stopwatch_GUI/
+│ ├── stopwatch.py
+│ └── README.md
 ├── Dice_Rolling_Stimulator/
 │ ├── dice_stimulator.py
 │ └── README.md
