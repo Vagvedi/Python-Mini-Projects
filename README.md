@@ -196,6 +196,21 @@ A graphical stopwatch application built using Python Tkinter.
 
 ---
 
+### 12. **Weather App GUI (Tkinter + API)** 🌦️
+A graphical weather application that fetches real-time weather data using an external API.
+
+- **File:** [Weather_App_GUI/weather_app.py](Weather_App_GUI/weather_app.py)
+- **Description:** Search any city to view temperature, humidity, and weather conditions.
+- **Features:**
+  - Real-time weather data
+  - City-based search
+  - Clean Tkinter interface
+- **Requirements:** `requests` library, OpenWeatherMap API
+- **How to Run:** `python Weather_App_GUI/weather_app.py`
+- **Usage:** Enter a city name and click “Get Weather”
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -236,7 +251,8 @@ A graphical stopwatch application built using Python Tkinter.
 | Calculator GUI | Built-in `tkinter` | No installation needed |
 | Digital Clock GUI | Built-in `tkinter`, `time` | No installation needed |
 | To-Do List GUI | Built-in `tkinter` | No installation needed |
-| Stopwatch GUI | Built-in `tkinter` | No installation needed |
+| Stopwatch GUI | Built-in `tkinter`, `time` | No installation needed |
+| Weather App GUI | `requests`, OpenWeatherMap API | `pip install requests` |
 
 ---
 
@@ -259,41 +275,44 @@ These projects teach:
 ```
 Python-Mini-Projects-main/
 ├── Caterpillar_Game/
-│ ├── Caterpillar.py
-│ └── README.md
+│   ├── Caterpillar.py
+│   └── README.md
 ├── Chess_Game/
-│ ├── ChessEngine.py
-│ ├── ChessGame.py
-│ ├── requirements.txt
-│ ├── README.md
-│ └── images/
+│   ├── ChessEngine.py
+│   ├── ChessGame.py
+│   ├── requirements.txt
+│   ├── README.md
+│   └── images/
 ├── Calculator_GUI/
-│ ├── calculator.py
-│ └── README.md
+│   ├── calculator.py
+│   └── README.md
 ├── Digital_Clock_GUI/
-│ ├── digital_clock.py
-│ └── README.md
+│   ├── digital_clock.py
+│   └── README.md
 ├── Stopwatch_GUI/
-│ ├── stopwatch.py
-│ └── README.md
+│   ├── stopwatch.py
+│   └── README.md
 ├── Dice_Rolling_Stimulator/
-│ ├── dice_stimulator.py
-│ └── README.md
+│   ├── dice_stimulator.py
+│   └── README.md
 ├── Number_Guessing_Game/
-│ ├── guess.py
-│ └── README.md
+│   ├── guess.py
+│   └── README.md
 ├── Password_Generator/
-│ ├── password.py
-│ └── README.md
+│   ├── password.py
+│   └── README.md
 ├── Rock_Paper_Scissors/
-│ ├── rock.py
-│ └── README.md
+│   ├── rock.py
+│   └── README.md
 ├── File_Organiser/
-│ ├── file_organizer.py
-│ └── README.md
+│   ├── file_organizer.py
+│   └── README.md
 ├── Todo_List_GUI/
-│ ├── todo_app.py
-│ └── README.md
+│   ├── todo_app.py
+│   └── README.md
+├── Weather_App_GUI/
+│   ├── weather_app.py
+│   └── README.md
 ├── LICENSE
 └── README.md
 
