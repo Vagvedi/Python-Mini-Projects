@@ -211,6 +211,21 @@ A graphical weather application that fetches real-time weather data using an ext
 
 ---
 
+### 13. **Notes App GUI (Tkinter)** 🗒️
+A graphical notes application built using Python Tkinter.
+
+- **File:** [Notes_App_GUI/notes_app.py](Notes_App_GUI/notes_app.py)
+- **Description:** Create, open, edit, and save text notes using a simple GUI.
+- **Features:**
+  - New, Open, and Save notes
+  - Text editing area
+  - File-based storage
+- **Requirements:** None – uses built-in Python library (`tkinter`)
+- **How to Run:** `python Notes_App_GUI/notes_app.py`
+- **Usage:** Write notes and save them as text files on your system
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -253,6 +268,7 @@ A graphical weather application that fetches real-time weather data using an ext
 | To-Do List GUI | Built-in `tkinter` | No installation needed |
 | Stopwatch GUI | Built-in `tkinter`, `time` | No installation needed |
 | Weather App GUI | `requests`, OpenWeatherMap API | `pip install requests` |
+| Notes App GUI | Built-in `tkinter` | No installation needed |
 
 ---
 
@@ -313,8 +329,12 @@ Python-Mini-Projects-main/
 ├── Weather_App_GUI/
 │   ├── weather_app.py
 │   └── README.md
+├── Notes_App_GUI/
+│   ├── notes_app.py
+│   └── README.md
 ├── LICENSE
 └── README.md
+
 
 ```
 
