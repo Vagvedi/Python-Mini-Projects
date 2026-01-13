@@ -135,7 +135,7 @@ A simple command-line automation tool to organize files in a directory based on 
 - **Usage:** Enter the path of the folder you want to organize and let the script sort the files automatically
 
  ---
- ### 8. **Calculator GUI (Tkinter)** 🧮
+### 8. **Calculator GUI (Tkinter)** 🧮
 A simple graphical calculator application built using Python’s Tkinter library.
 
 - **File:** [Calculator_GUI/calculator.py](Calculator_GUI/calculator.py)
@@ -166,7 +166,7 @@ A real-time digital clock application built using Python Tkinter.
  
  ---
 
- ### 10. **To-Do List GUI (Tkinter)** 📝
+### 10. **To-Do List GUI (Tkinter)** 📝
 A simple graphical task manager built using Python Tkinter.
 
 - **File:** [Todo_List_GUI/todo_app.py](Todo_List_GUI/todo_app.py)
@@ -181,7 +181,7 @@ A simple graphical task manager built using Python Tkinter.
 
   ---
 
-  ### 11. **Stopwatch GUI (Tkinter)** ⏱️
+### 11. **Stopwatch GUI (Tkinter)** ⏱️
 A graphical stopwatch application built using Python Tkinter.
 
 - **File:** [Stopwatch_GUI/stopwatch.py](Stopwatch_GUI/stopwatch.py)
