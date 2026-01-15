@@ -284,7 +284,6 @@ A graphical file search utility built using Python Tkinter.
 ---
 
 ## 📦 Project Dependencies
-
 | Project | Dependencies | Installation |
 |--------|--------------|--------------|
 | Caterpillar Game | Built-in `turtle` | No installation needed |
@@ -301,6 +300,7 @@ A graphical file search utility built using Python Tkinter.
 | Weather App GUI | `requests`, OpenWeatherMap API | `pip install requests` |
 | Notes App GUI | Built-in `tkinter` | No installation needed |
 | Mini Paint App GUI | Built-in `tkinter` | No installation needed |
+| File Search Tool GUI | Built-in `tkinter`, `os` | No installation needed |
 
 ---
 
@@ -366,6 +366,9 @@ Python-Mini-Projects-main/
 │   └── README.md
 ├── Paint_App_GUI/
 │   ├── paint_app.py
+│   └── README.md
+├── File_Search_GUI/
+│   ├── file_search.py
 │   └── README.md
 ├── LICENSE
 └── README.md
