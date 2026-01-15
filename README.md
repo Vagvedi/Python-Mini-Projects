@@ -241,6 +241,22 @@ A simple drawing application built using Python Tkinter.
 
 ---
 
+### 17. **File Search Tool (Tkinter)** 🔍
+A graphical file search utility built using Python Tkinter.
+
+- **File:** [File_Search_GUI/file_search.py](File_Search_GUI/file_search.py)
+- **Description:** Search for files inside a directory and view their full paths.
+- **Features:**
+  - Directory browsing
+  - File name search
+  - Clean GUI output
+- **Requirements:** None – uses Python standard library only
+- **How to Run:** `python File_Search_GUI/file_search.py`
+- **Usage:** Enter file name, select folder, and search
+
+---
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
