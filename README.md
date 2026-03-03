@@ -1,4 +1,4 @@
-# Python Mini-Projects
+# Python Mini Projects
 
 A collection of fun and educational Python mini-projects for beginners. Each project demonstrates fundamental programming concepts and practical applications.
 
