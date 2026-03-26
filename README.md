@@ -241,7 +241,26 @@ A simple drawing application built using Python Tkinter.
 
 ---
 
-### 17. **File Search Tool (Tkinter)** 🔍
+### 15. **Tic Tac Toe GUI (Tkinter)** ❌⭕
+A classic two-player Tic Tac Toe game with a graphical interface.
+
+- **File:** [Tic_Tac_Toe/tic_tac_toe.py](Tic_Tac_Toe/tic_tac_toe.py)
+- **Description:** Play the classic Tic Tac Toe game against another player on the same computer with a clean, modern GUI.
+- **Features:**
+  - Two-player gameplay (X and O)
+  - Visual turn indicators
+  - Score tracking for both players and draws
+  - Win detection with winning line highlighting
+  - Draw detection
+  - New game and reset scores functionality
+  - Modern, colorful interface with hover effects
+- **Requirements:** None – uses built-in Python library (`tkinter`)
+- **How to Run:** `python Tic_Tac_Toe/tic_tac_toe.py`
+- **Usage:** Click on empty cells to make moves, first to get 3 in a row wins!
+
+---
+
+### 16. **File Search Tool (Tkinter)** 🔍
 A graphical file search utility built using Python Tkinter.
 
 - **File:** [File_Search_GUI/file_search.py](File_Search_GUI/file_search.py)
@@ -300,6 +319,7 @@ A graphical file search utility built using Python Tkinter.
 | Weather App GUI | `requests`, OpenWeatherMap API | `pip install requests` |
 | Notes App GUI | Built-in `tkinter` | No installation needed |
 | Mini Paint App GUI | Built-in `tkinter` | No installation needed |
+| Tic Tac Toe GUI | Built-in `tkinter` | No installation needed |
 | File Search Tool GUI | Built-in `tkinter`, `os` | No installation needed |
 
 ---
@@ -367,6 +387,9 @@ Python-Mini-Projects-main/
 ├── Paint_App_GUI/
 │   ├── paint_app.py
 │   └── README.md
+├── Tic_Tac_Toe/
+│   ├── tic_tac_toe.py
+│   └── README.md
 ├── File_Search_GUI/
 │   ├── file_search.py
 │   └── README.md
@@ -414,6 +437,12 @@ python Password_Generator/password.py
 python Calculator_GUI/calculator.py
 ```
 Answer prompts to customize your password, then get a secure random password.
+
+**Tic Tac Toe:**
+```bash
+python Tic_Tac_Toe/tic_tac_toe.py
+```
+Click on empty cells to make moves. First player to get 3 in a row wins!
 
 ---
 
