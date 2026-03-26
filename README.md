@@ -1,10 +1,10 @@
-# Python Mini-Projects
+# Python Mini Projects
 
 A collection of fun and educational Python mini-projects for beginners. Each project demonstrates fundamental programming concepts and practical applications.
 
 ## 📋 Projects Overview
 
-### 1. **Caterpillar Game** 🐛
+### 1. **Caterpillar Game** 
 A fun interactive game built with Python's `turtle` graphics module.
 
 - **File:** [Caterpillar_Game/Caterpillar.py](Caterpillar_Game/Caterpillar.py)
@@ -20,7 +20,7 @@ A fun interactive game built with Python's `turtle` graphics module.
 
 ---
 
-### 2. **Chess Game** ♟️
+### 2. **Chess Game** 
 A fully functional chess game with graphical interface using Pygame.
 
 - **Files:** 
@@ -43,7 +43,7 @@ A fully functional chess game with graphical interface using Pygame.
 
 ---
 
-### 3. **Dice Rolling Simulator** 🎲
+### 3. **Dice Rolling Simulator** 
 A simple command-line dice rolling simulator with visual representation.
 
 - **File:** [Dice_Rolling_Stimulator/dice_stimulator.py](Dice_Rolling_Stimulator/dice_stimulator.py)
@@ -59,7 +59,7 @@ A simple command-line dice rolling simulator with visual representation.
 
 ---
 
-### 4. **Number Guessing Game** 🎯
+### 4. **Number Guessing Game** 
 An interactive guessing game with difficulty levels and colored output.
 
 - **File:** [Number_Guessing_Game/guess.py](Number_Guessing_Game/guess.py)
@@ -80,7 +80,7 @@ An interactive guessing game with difficulty levels and colored output.
 
 ---
 
-### 5. **Password Generator** 🔐
+### 5. **Password Generator** 
 A secure password generation tool with customizable options.
 
 - **File:** [Password_Generator/password.py](Password_Generator/password.py)
@@ -101,7 +101,7 @@ A secure password generation tool with customizable options.
 
 ---
 
-### 6. **Rock Paper Scissors PRO** 🎮
+### 6. **Rock Paper Scissors PRO** 
 A classic command-line game where the user competes against the computer using strategy and luck.
 
 - **File:** [Rock_Paper_Scissors_PRO/rock_paper_scissors.py](Rock_Paper_Scissors/rock.py)
@@ -119,7 +119,7 @@ A classic command-line game where the user competes against the computer using s
 
 ---
 
-### 7. **File Organiser Automation** 📁
+### 7. **File Organiser Automation** 
 A simple command-line automation tool to organize files in a directory based on their file types.
 
 - **File:** [File_Organiser/file_organizer.py](File_Organiser/file_organizer.py)
@@ -135,7 +135,7 @@ A simple command-line automation tool to organize files in a directory based on 
 - **Usage:** Enter the path of the folder you want to organize and let the script sort the files automatically
 
  ---
-### 8. **Calculator GUI (Tkinter)** 🧮
+### 8. **Calculator GUI (Tkinter)** 
 A simple graphical calculator application built using Python’s Tkinter library.
 
 - **File:** [Calculator_GUI/calculator.py](Calculator_GUI/calculator.py)
@@ -151,7 +151,7 @@ A simple graphical calculator application built using Python’s Tkinter library
 - **Usage:** Click the calculator buttons to enter numbers and operations, then press `=` to view the result
 ---
 
-### 9. **Digital Clock GUI** ⏰
+### 9. **Digital Clock GUI** 
 A real-time digital clock application built using Python Tkinter.
 
 - **File:** [Digital_Clock_GUI/digital_clock.py](Digital_Clock_GUI/digital_clock.py)
@@ -166,7 +166,7 @@ A real-time digital clock application built using Python Tkinter.
  
  ---
 
-### 10. **To-Do List GUI (Tkinter)** 📝
+### 10. **To-Do List GUI (Tkinter)** 
 A simple graphical task manager built using Python Tkinter.
 
 - **File:** [Todo_List_GUI/todo_app.py](Todo_List_GUI/todo_app.py)
@@ -181,7 +181,7 @@ A simple graphical task manager built using Python Tkinter.
 
   ---
 
-### 11. **Stopwatch GUI (Tkinter)** ⏱️
+### 11. **Stopwatch GUI (Tkinter)** 
 A graphical stopwatch application built using Python Tkinter.
 
 - **File:** [Stopwatch_GUI/stopwatch.py](Stopwatch_GUI/stopwatch.py)
@@ -196,7 +196,7 @@ A graphical stopwatch application built using Python Tkinter.
 
 ---
 
-### 12. **Weather App GUI (Tkinter + API)** 🌦️
+### 12. **Weather App GUI (Tkinter + API)** 
 A graphical weather application that fetches real-time weather data using an external API.
 
 - **File:** [Weather_App_GUI/weather_app.py](Weather_App_GUI/weather_app.py)
@@ -211,7 +211,7 @@ A graphical weather application that fetches real-time weather data using an ext
 
 ---
 
-### 13. **Notes App GUI (Tkinter)** 🗒️
+### 13. **Notes App GUI (Tkinter)** 
 A graphical notes application built using Python Tkinter.
 
 - **File:** [Notes_App_GUI/notes_app.py](Notes_App_GUI/notes_app.py)
@@ -226,7 +226,7 @@ A graphical notes application built using Python Tkinter.
 
 ---
 
-### 14. **Mini Paint App (Tkinter)** 🎨
+### 14. **Mini Paint App (Tkinter)** 
 A simple drawing application built using Python Tkinter.
 
 - **File:** [Paint_App_GUI/paint_app.py](Paint_App_GUI/paint_app.py)
